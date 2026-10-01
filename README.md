@@ -137,4 +137,4 @@ To use these notebooks with a different dataset:
 
 ## Author
 
-**Chan Myae** | UCL Neuroscience | Supervisor: Dr Adele Simon | 2025
+**Chan Myae Yin Aung** | UCL Neuroscience | Supervisor: Dr Adele Simon | 2025
